@@ -4,11 +4,14 @@ Some people have asked if Randovania could get an Archipelago implementation, so
 
 Host a RDV Multiworld and join an AP Multiworld with this Manual. This Manual is logically very barren, and is only recommended for Big Asyncs hosted with Archipelago.
 
+DISCLAIMER:
+If there are multiple players using this manual in the same AP AND RDV MWs, you should probably figure out how to use Item Plando so your games aren't in each other's worlds, logically hardlocking the AP MW: https://archipelago.gg/tutorial/Archipelago/plando_en 
+
 Requirements:
 Latest versions of Archipelago, Randovania, and the Manual Client.
 
 Items:
-Every Multiworld compatible game in RDV is now locked behind its own item. Each game can be toggled on or off with a yaml option. You are not allowed to play any RDV game until you receive its item.
+Every Multiworld compatible game in RDV is now locked behind its own item. Each game can be toggled on or off with a yaml option. You are not allowed to play any RDV game until you receive its item. 
 
 Locations:
 - Collect one item from each game. Logically, these checks only require one game to do. If you can't obtain a single item with your starting game, just send the check anyways.
