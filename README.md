@@ -24,6 +24,6 @@ Beat every RDV game you have enabled.
 DISCLAIMER:
 If there are multiple players using this manual in the same AP AND RDV MWs, you should probably figure out how to use Item Plando so your games aren't in each other's worlds, logically hardlocking the AP MW: https://archipelago.gg/tutorial/Archipelago/plando_en 
 
-Template plando_items:
+Template plando_items: (thank you to Iris for helping me figure out item plando)
 
   <img width="299" height="497" alt="image" src="https://github.com/user-attachments/assets/bf2e80d8-517a-464e-a9e7-4e023c6358b0" />
