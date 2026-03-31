@@ -38,4 +38,6 @@ Template plando_items:
     world:
       - MWgame1
       - MWgame2
-      - MWgame3<img width="299" height="497" alt="image" src="https://github.com/user-attachments/assets/bf2e80d8-517a-464e-a9e7-4e023c6358b0" />
+      - MWgame3
+
+  <img width="299" height="497" alt="image" src="https://github.com/user-attachments/assets/bf2e80d8-517a-464e-a9e7-4e023c6358b0" />
